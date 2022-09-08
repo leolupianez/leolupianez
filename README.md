@@ -14,7 +14,7 @@ Currently building full-stack applications for clients all over the world. I aim
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="left"> <a href="https://www.github.com/joselupianez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="38" height="38" /></a> <a href="https://www.linkedin.com/in/joselupianez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lupianez_jose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="38" height="38" /></a></p>
+<p align="left"> <a href="https://www.github.com/joselupianez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="38" height="38" /></a> <a href="https://www.linkedin.com/in/joselupianez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lupianez_jose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="38" height="38" /></a></p>
 
 <h3 align="left">GitHub Stats:</h3>
 
