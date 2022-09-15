@@ -1,4 +1,5 @@
 Hi 👋 My name is Jose!
+<a href="https://www.codewars.com/users/joselupianez"><img align="right" src="https://www.codewars.com/users/joselupianez/badges/micro" alt="Jose Lupianez Codewars"/></a>
 ==============================
 Software Engineer
 -----------------
@@ -16,8 +17,9 @@ Currently building full-stack applications for clients all over the world. I aim
 
 <p align="left"> <a href="https://www.github.com/joselupianez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="38" height="38" /></a> <a href="https://www.linkedin.com/in/joselupianez/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/lupianez_jose" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="38" height="38" /></a></p>
 
-<h3 align="left">GitHub Stats:</h3>
+<h3 align="left">Stats:</h3>
 
 <a href="http://www.github.com/joselupianez"><img src="https://github-readme-streak-stats.herokuapp.com/?user=joselupianez&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Jose Lupianez GitHub Streak"/></a>
 
 <a href="http://www.github.com/joselupianez"><img src="https://activity-graph.herokuapp.com/graph?username=joselupianez&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="Jose Lupianez GitHub Commits Graph"/></a>
+
