@@ -19,9 +19,9 @@ Currently building full-stack applications for clients all over the world. I aim
 
 <h3 align="left">Stats:</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/joselupianez">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=joselupianez&show_icons=true&theme=tokyonight" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/joselupianez">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselupianez&theme=tokyonight&layout=compact" />
 </a>
