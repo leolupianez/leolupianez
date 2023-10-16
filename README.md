@@ -20,8 +20,8 @@ Currently building full-stack applications for clients all over the world. I aim
 <h3 align="left">Stats:</h3>
 
 <a href="https://github.com/joselupianez">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=joselupianez&show_icons=true&theme=tokyonight" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=joselupianez&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/joselupianez">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselupianez&theme=tokyonight&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselupianez&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" />
 </a>
