@@ -5,7 +5,7 @@ Software Engineer
 -----------------
 Currently building full-stack applications for clients all over the world. I aim to join a product team that makes software people.
 * 🌍  I'm based in Miami
-* 🖥️  See my portfolio at [lupianezjose.com](http://lupianezjose.com)
+* 🖥️  See my portfolio at [leodev.co](http://leodev.co)
 * 🧠  I'm currently learning React
 * 🤝  I'm interested in collaborating on Open Source projects
 
